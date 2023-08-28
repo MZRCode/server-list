@@ -1,5 +1,5 @@
 # Server List Bot
-## Son derece gelişmiş ve full otomatik server list botu
+Son derece gelişmiş ve full otomatik server list botu
 
 # Özellikler
 - Otomatik kanallara linki gönderim
